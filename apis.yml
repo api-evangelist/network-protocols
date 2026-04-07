@@ -1,15 +1,12 @@
 aid: network-protocols
 name: Network Protocols
-description: Standardized rules and conventions for communication between network
-  devices, including protocols like TCP/IP, HTTP, DNS, and others that enable data
-  exchange across networks. It is fundamental to modern network architectures and
-  enables reliable communication between systems.
+description: Standardized rules and conventions for communication between network devices, including protocols like TCP/IP, HTTP, DNS, and others that enable data exchange across networks. It is fundamental to modern network architectures and enables reliable communication between systems.
 type: Index
 image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
 tags:
-  - Networking
   - Communication
   - Infrastructure
+  - Networking
 url: https://raw.githubusercontent.com/api-evangelist/network-protocols/refs/heads/main/apis.yml
 created: '2025-01-01'
 modified: '2026-03-16'
