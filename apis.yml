@@ -23,6 +23,12 @@ position: Consumer
 access: 3rd-Party
 image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/network-protocols.png
 tags:
+  - Communications
+  - Infrastructure
+  - Networking
+  - Protocols
+  - Standards
+tags_raw:
   - Communication
   - Infrastructure
   - Networking
