@@ -1,4 +1,4 @@
-# Network Protocols (network-protocols)
+# network-protocols
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -64,41 +64,22 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Network protocols are the standardized rules and conventions for communication between network devices. They include foundational protocols such as TCP/IP, HTTP, HTTPS, DNS, BGP, SMTP, FTP, SSH and many others that enable data exchange across networks. Network protocols are fundamental to modern network architectures and underpin reliable communication between systems.
+## network-protocols on APIs.io
 
-**URL:** [Visit APIs.json URL](https://raw.githubusercontent.com/api-evangelist/network-protocols/refs/heads/main/apis.yml)
+Everything profiled for network-protocols is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/network-protocols/](https://apis.io/providers/network-protocols/)** — or go straight to one of the APIs or properties below.
 
-## Scope
+## API Evangelist rating
 
-- **Type:** Index
-- **Position:** Consumer
-- **Access:** 3rd-Party
+Not yet rated. See [apis.io/providers/network-protocols/](https://apis.io/providers/network-protocols/).
 
-## Tags
+## How this profile is made
 
-- Communication
-- Infrastructure
-- Networking
-- Protocols
-- Standards
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
 
-## Timestamps
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for network-protocols: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
 
-- **Created:** 2025-01-01
-- **Modified:** 2026-04-28
+## Open an issue
 
-## APIs
-
-This index covers the concept of network protocols and does not currently catalog specific APIs.
-
-## Common Properties
-
-- [Reference: Communication Protocol](https://en.wikipedia.org/wiki/Communication_protocol)
-- [Reference: Internet Protocol Suite](https://en.wikipedia.org/wiki/Internet_protocol_suite)
-- [Standards: IETF RFCs](https://www.ietf.org/standards/rfcs/)
-
-## Maintainers
-
-**FN:** Kin Lane
-
-**Email:** kin@apievangelist.com
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/network-protocols/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
